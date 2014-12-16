@@ -1,0 +1,6 @@
+C:\Users\Ahmet\Documents\Visual Studio 2012\Projects\BinarySearchTreeOperation\BinarySearchTreeOperation\bin\Debug\BinarySearchTreeOperation.exe.config
+C:\Users\Ahmet\Documents\Visual Studio 2012\Projects\BinarySearchTreeOperation\BinarySearchTreeOperation\bin\Debug\BinarySearchTreeOperation.exe
+C:\Users\Ahmet\Documents\Visual Studio 2012\Projects\BinarySearchTreeOperation\BinarySearchTreeOperation\bin\Debug\BinarySearchTreeOperation.pdb
+C:\Users\Ahmet\Documents\Visual Studio 2012\Projects\BinarySearchTreeOperation\BinarySearchTreeOperation\obj\Debug\BinarySearchTreeOperation.csprojResolveAssemblyReference.cache
+C:\Users\Ahmet\Documents\Visual Studio 2012\Projects\BinarySearchTreeOperation\BinarySearchTreeOperation\obj\Debug\BinarySearchTreeOperation.exe
+C:\Users\Ahmet\Documents\Visual Studio 2012\Projects\BinarySearchTreeOperation\BinarySearchTreeOperation\obj\Debug\BinarySearchTreeOperation.pdb
